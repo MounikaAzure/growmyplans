@@ -1,0 +1,13 @@
+## This file contains Jenkin sequence of stemps
+
+## Clone the Project from https://github.com/MounikaAzure/growmyplans.git
+
+## Compile
+
+## JUnits
+
+## Buid Validate (Sonar Qube)
+
+## uload generated jar file to Nexus Repo
+
+## Deploy into test  / UAT enviranment
